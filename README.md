@@ -6,4 +6,4 @@ The first Icelandic drinking game app
 **Coming to App Store Late Nov or Early Dec**
 
 
-<img src="./hauslausDemo" alt="hauslausApp" width="240"/>
+<img src="./hauslausDemo.gif" alt="hauslausApp" width="240"/>
